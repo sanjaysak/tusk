@@ -5,4 +5,7 @@ Kheer
 Pasta
 Chicken
 
+Beans
+Pizza
+
 Thank you and Regards.
